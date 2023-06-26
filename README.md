@@ -6,3 +6,7 @@ Instructions:
 - The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
 - The total stock volume of the stock.
 - Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume".
+
+
+Received assistance from a Tutor to get open_price values correctly.
+Much of the script is taken from Module 2 activities and have been mentioned in the code.
